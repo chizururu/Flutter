@@ -1,0 +1,32 @@
+[
+    {
+        "nama": "Kevin Pratama",
+        "umur": 24,
+        "alamat": {
+            "jalan": "Komplek Kedamaian Permai, Jalan Gajah I",
+            "kota": "Palembang",
+            "provinsi": "Sumatera Selatan"
+        },
+        "hobi": ["membaca", "bersepeda", "main game"]
+    },
+    {
+        "nama": "Juan Dwi Putra",
+        "umur": 14,
+        "alamat": {
+            "jalan": "Komplek Kedamaian Permai, Jalan Gajah I",
+            "kota": "Palembang",
+            "provinsi": "Sumatera Selatan"
+        },
+        "hobi": ["membaca", "bersepeda"]
+    },
+    {
+        "nama": "Ferdian Lubis",
+        "umur": 25,
+        "alamat": {
+            "jalan": "JL. Cipto",
+            "kota": "Jakarta",
+            "provinsi": "DKI Jakarta"
+        },
+        "hobi": ["menulis", "makan"]
+    }
+]
